@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34899'
     url: http://www.gutenberg.org/2009/agents/34899
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30926#Notas-d-arte
 gutenberg_bookshelf: PT Arte
 gutenberg_issued: '2010-01-11'
 gutenberg_type: Text
