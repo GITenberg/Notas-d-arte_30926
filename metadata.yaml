@@ -1,0 +1,29 @@
+_repo: Notas-d-arte_30926
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lemos, António de
+    alias: Lemos, Antonio de
+    birthdate: 1864
+    deathdate: 1931
+    gutenberg_agent_id: '34899'
+    url: http://www.gutenberg.org/2009/agents/34899
+description: ''
+gutenberg_bookshelf: PT Arte
+gutenberg_issued: '2010-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30926'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art, Portuguese'
+- !lcsh 'Art -- Portugal'
+- !lcc 'N'
+title: Notas d'arte
+url: http://www.gutenberg.org/ebooks/30926
